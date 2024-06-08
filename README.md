@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi👋 My name is Sakshi Bhalla
 
 <!--
 **SakshiBhalla77/SakshiBhalla77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
