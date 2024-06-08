@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm currently a final year B.Tech student passiona
 - Exploring new programming languages and frameworks to broaden my skill set.
 
 ## 📫 How to Reach Me:
-- Feel free to connect with me on LinkedIn: [Sakshi Bhalla]([https://www.linkedin.com/in/sakshibhalla77/](https://www.linkedin.com/in/sakshibhalla0/))
+- Feel free to connect with me on LinkedIn: [Sakshi Bhalla]([[https://www.linkedin.com/in/sakshibhalla77/]])
 - Email me at: sakshibhalla27@gmail.com
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about anything tech-related.
