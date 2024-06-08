@@ -1,8 +1,9 @@
 # Hi👋 My name is Sakshi Bhalla
+## Web Developer and Designer
 
 Welcome to my GitHub profile! I'm currently a final year B.Tech student passionate about software development and problem-solving. Here's a little about what I'm up to:
 
-## 🔭 Currently Working On:
+## Currently Working On:
 - Data Structures and Algorithms (DSA) to sharpen my problem-solving skills.
 - Exciting projects to apply my coding knowledge and explore new technologies.
 
@@ -10,7 +11,6 @@ Welcome to my GitHub profile! I'm currently a final year B.Tech student passiona
 - Diving deeper into DSA to master fundamental concepts and improve efficiency.
 - Exploring new programming languages and frameworks to broaden my skill set.
 
-## 📫 How to Reach Me:
 - Feel free to connect with me on LinkedIn: [Sakshi Bhalla](https://www.linkedin.com/in/sakshibhalla0/)
 - Email me at: sakshibhalla27@gmail.com
 
