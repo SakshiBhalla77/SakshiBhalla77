@@ -1,5 +1,6 @@
 # Hi👋 My name is Sakshi Bhalla
-![Fun Gif](./assets/giphy.webp)
+![Banner](./assets/Purple%20and%20Black%20Gradient%20Y2K%20Coming%20Soon%20Banner.png)
+
 
 ## Web Developer and Designer
 
