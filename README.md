@@ -1,4 +1,5 @@
 # Hi👋 My name is Sakshi Bhalla
+![Fun Gif](./assets/giphy.webp)
 
 ## Web Developer and Designer
 
