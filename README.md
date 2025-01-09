@@ -1,4 +1,5 @@
-# Hi👋 My name is Sakshi Bhalla![Welcome Banner](./assets/Beige-Simple-Elegant-Personal-LinkedIn-Banner.gif)
+# Hi👋 My name is Sakshi Bhalla!
+[Welcome Banner](./assets/Beige-Simple-Elegant-Personal-LinkedIn-Banner.gif)
 
 
 ## Web Developer and Designer
